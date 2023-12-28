@@ -1,0 +1,5 @@
+tabs: ['script.py']
+terminals: ["pip install opencv-python-headless"]
+run-button: python3 $$file
+
+# git init && git remote add origin git@github.com:taherabbas67/ComputerVision.git
